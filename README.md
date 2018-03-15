@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 created by Diwansh Gulyani.
@@ -22,3 +23,6 @@ created by Diwansh Gulyani.
 ```url
     node server.js
 ```
+=======
+# chat_app
+>>>>>>> eb71b42fa280e0f6ad5e9c534fcb961f50cb3c4f
